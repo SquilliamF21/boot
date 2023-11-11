@@ -1,0 +1,2 @@
+# Boot
+Simple config.
